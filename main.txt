@@ -1,1 +1,2 @@
 work code
+add autoshow
